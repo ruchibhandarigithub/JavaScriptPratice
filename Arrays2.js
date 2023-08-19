@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Arrays2 </title>
-</head>
-<body>
-    <script>
+
         // Map filter reduce
         // Map() = It is used to transform an array
         let arr = [1,2,3,4];
@@ -96,7 +88,4 @@
         return acc;
     },{});
     console.log(ans);
-    </script>
-    
-</body>
-</html>
+   
